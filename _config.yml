@@ -12,4 +12,8 @@ color:
     - '#004E98'
 layout_spectrum: 0.21448852051980793
 name: testing
+navigation:
+  - name: fashion
+    url: 'https://www.mrporter.com/'
+    type: external
 title: Jeffrey's Testing!
