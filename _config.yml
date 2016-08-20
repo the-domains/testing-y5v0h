@@ -1,4 +1,3 @@
-layout_spectrum: 0.4007709096185863
 typography_spectrum: 0.7665383075363934
 color:
   brandStrength: 0.5608424402307719
@@ -15,8 +14,13 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/9087c70a-42f4-4b63-a7bb-9f5ea17937a9.jpg
   type: website
+layout_spectrum: 0.4007709096185863
 author:
   name: Jeffrey Lain
   email: sinotai@gmail.com
 name: 'Ultimate Aussie Trip '
+navigation:
+  - name: Mr Porter
+    url: 'https://www.mrporter.com/en-tw/?spinlogo=1'
+    type: external
 title: Jeffrey's Testing!
