@@ -1,4 +1,5 @@
-typography_spectrum: 0.7665383075363934
+layout_spectrum: 0.45049086306244135
+typography_spectrum: 0.386628984939307
 color:
   brandStrength: 0.5608424402307719
   lightness: 0.09823664324358106
@@ -14,7 +15,6 @@ opengraph:
   image: >-
     https://the-grid-user-content.s3-us-west-2.amazonaws.com/d39eaf1f-3602-48af-aeb8-17e0d4292775.jpg
   type: website
-layout_spectrum: 0.4007709096185863
 author:
   name: Jeffrey Lain
   email: sinotai@gmail.com
