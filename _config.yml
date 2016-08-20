@@ -1,4 +1,3 @@
-layout_spectrum: 0.21448852051980793
 typography_spectrum: 0.14619794324971735
 color:
   brandStrength: 0.9450905059929937
@@ -6,9 +5,11 @@ color:
   saturation: 0.3585983538068831
   rhythmicContrast: 0.7473579186480492
   brandColors:
-    - '#000000'
-    - '#404040'
-    - '#808080'
-    - '#BFBFBF'
-    - '#FFFFFF'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+layout_spectrum: 0.21448852051980793
 name: testing
+title: Jeffrey's Testing!
