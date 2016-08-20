@@ -10,8 +10,15 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/9087c70a-42f4-4b63-a7bb-9f5ea17937a9.jpg
+  type: website
 layout_spectrum: 0.21448852051980793
-name: testing
+author:
+  name: Jeffrey Lain
+  email: sinotai@gmail.com
+name: 'Ultimate Aussie Trip '
 navigation:
   - name: fashion
     url: 'https://www.mrporter.com/'
